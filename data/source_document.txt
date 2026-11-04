@@ -1,0 +1,135 @@
+NORTHSTAR LEARNING INSTITUTE
+STUDENT DIGITAL SERVICES AND TECHNOLOGY SUPPORT HANDBOOK
+Training document for the PromptForge Week 3 RAG exercise
+
+DOCUMENT SCOPE
+
+This handbook describes the fictional technology services of Northstar Learning Institute. It is a self-contained training document created for a retrieval-augmented generation exercise. Northstar Learning Institute is not a real institution, and the procedures, limits, service hours, and account rules below are invented for this sample. The handbook is the only approved knowledge source for the demonstration assistant. The assistant must not treat general knowledge, guesses, or information from outside this handbook as Northstar policy.
+
+The handbook covers student accounts, multi-factor authentication, campus Wi-Fi, personal devices, the learning portal, institute email, cloud storage, printing, classroom technology, software access, basic security, support tickets, equipment loans, repairs, and escalation. It does not define academic grading rules, tuition fees, admissions decisions, scholarships, course content, examination results, or individual student records. Questions in those areas are outside the scope of this document and should be referred to the appropriate academic or finance office rather than answered by the technology assistant.
+
+1. STUDENT ACCOUNTS AND SIGN-IN
+
+Every enrolled student receives a Northstar ID. The ID is used to sign in to the Student Portal, the Learning Hub, institute email, the campus wireless network, and the digital library. A student should use the same Northstar ID for all institute services. Creating a second account to work around a sign-in problem is not supported because duplicate identities can separate course submissions, cloud files, and support history.
+
+A new student activates the account from the activation message sent to the personal email address recorded during registration. The activation process asks the student to set a password and register a second authentication method. The account password must be at least twelve characters long and must not be reused from a personal email, social-media, or banking account. Northstar recommends using a password manager. Support staff will never ask a student to disclose a password, one-time code, recovery code, or password-manager vault entry.
+
+Multi-factor authentication, usually shortened to MFA, is required when signing in from a new device and when opening selected services outside the institute network. Students can register an authenticator application or a hardware security key. A student who changes phones should register the replacement method before removing the old one. If every registered MFA method is lost, the student must submit an identity-verification request through the Help Centre. Support staff verify identity using the institute's approved process; they do not bypass MFA after receiving a message from an unverified email address.
+
+If a password is forgotten, the student should select “Forgot password” on the Student Portal sign-in page and follow the recovery instructions sent to the registered recovery address. If the recovery message does not arrive within ten minutes, the student should check the spam folder once and then create a Help Centre ticket. Repeated password attempts can temporarily lock the account. After five consecutive unsuccessful sign-in attempts, the account is locked for fifteen minutes. Waiting for the lock period to end is preferable to repeatedly retrying old passwords.
+
+2. CAMPUS WI-FI AND NETWORK ACCESS
+
+The institute provides two wireless networks: Northstar-Secure and Northstar-Guest. Enrolled students should use Northstar-Secure for normal study, library, and learning-platform activity. Northstar-Guest is intended for visitors and personal devices that do not need access to internal student services. The guest network cannot access internal file shares or staff-only systems. Students should not choose the guest network merely because its name appears first in a device's Wi-Fi list.
+
+To connect to Northstar-Secure for the first time, turn on Wi-Fi, select Northstar-Secure, and sign in with the Northstar ID and current account password when prompted. Accept the institute network certificate only when the device displays the Northstar-Secure network name and the certificate details identify Northstar Learning Institute. If a device displays an unexpected certificate warning, cancel the connection and report the warning through the Help Centre. Do not install a certificate supplied by an unknown person or downloaded from an unofficial file-sharing link.
+
+If Wi-Fi connects but websites do not load, first check whether the same device can reach the Student Portal. Then turn Wi-Fi off and on, confirm that airplane mode is disabled, and reconnect to Northstar-Secure. If the issue remains, forget the saved Northstar-Secure network profile and connect again using the current Northstar ID. Restarting the device is a reasonable next step. A student should record the building, room, approximate time, device type, and exact error message before contacting support, because a problem limited to one room may need a network technician to inspect an access point.
+
+The Northstar-Guest network uses a temporary access code issued by the campus reception desk. Each guest code is valid for twenty-four hours and is limited to one device. Guest codes are not student account credentials and must not be shared publicly. A student who hosts a visitor should ask the visitor to obtain a code from reception rather than giving the visitor the student's Northstar password. Guest access is not intended for unattended devices or long-term personal use.
+
+The recommended device limit for Northstar-Secure is four registered devices per student. If a student replaces a phone or laptop and reaches the limit, the student should remove the retired device from the wireless device-registration page before registering the replacement. If the old device is unavailable, a Help Centre ticket can request a registration reset. Network availability can be affected by scheduled maintenance, building coverage, or local interference; a successful connection in one building does not guarantee identical signal strength in another.
+
+3. PERSONAL LAPTOPS AND BASIC DEVICE CHECKS
+
+Students may use Windows, macOS, or supported Linux laptops for ordinary learning activities. The device should receive security updates from its operating-system vendor and should have a screen lock enabled. The institute does not require a particular laptop brand. Before installing a major operating-system update, students should save open work, connect the laptop to power, and ensure that important files are backed up to institute cloud storage or another trusted location.
+
+When a laptop becomes slow, the student should first restart it and check whether many applications are running at the same time. The student can review available storage and remove temporary files using the operating system's normal storage tools. Large personal video collections and duplicate downloads should not be stored in the system drive when free space is low. Students should avoid registry cleaners, unknown “driver booster” utilities, and scripts copied from untrusted forums. Such tools can remove required components or expose the device to malware.
+
+If a laptop becomes unusually hot, place it on a hard, flat surface and ensure that the ventilation openings are not covered. Close demanding applications and allow the device to cool. Do not place the device in a refrigerator, pour liquid on it, or open the chassis while it is under warranty. If the fan makes a grinding noise, the battery expands, or the device repeatedly shuts down from heat, stop using it and request a hardware inspection. A swollen battery must not be pressed, punctured, or placed in ordinary household waste.
+
+For a device that will not start, connect the original or manufacturer-approved power adapter and check the charging indicator. Disconnect non-essential USB devices and try one normal restart. Do not repeatedly force the power off during an operating-system update. If the screen stays blank or the device emits an unusual smell, disconnect power when it is safe to do so and request support. The Help Centre cannot guarantee recovery of data from a physically damaged drive, so students should maintain backups before a fault occurs.
+
+4. LEARNING HUB AND COURSE SUBMISSIONS
+
+The Learning Hub is the institute's learning-management service. Students use it to view course announcements, download teaching material, submit assignments, and check submission receipts. The Learning Hub uses the Northstar ID and MFA where required. A course tile may not appear until the academic office has completed enrolment synchronisation. Technology support can check whether a portal access problem exists, but it cannot enrol a student in a course or change an academic registration decision.
+
+For an assignment upload, open the correct course, choose the matching assignment item, select the intended file, and wait for the upload confirmation. The maximum size for a single submission file is one hundred megabytes. Supported common formats include PDF, DOCX, PPTX, XLSX, JPG, PNG, and MP4. A compressed archive may be rejected when the assignment settings do not allow it. Students should follow the file-format instructions shown on the specific assignment page because an instructor can restrict formats for an individual activity.
+
+After uploading, check that the displayed file name is correct and that a submission receipt or timestamp appears. A file visible in the computer's upload picker has not necessarily reached the Learning Hub. If the upload fails, check the file size and format, use a stable network connection, and try a different supported browser. Keep the original file until the receipt is visible. If the deadline is close, take a screenshot of the error with personal information hidden and submit a Help Centre ticket that includes the course code, assignment name, time of the failed attempt, and browser version. Technology support can investigate a technical failure but cannot grant an extension or change a deadline.
+
+An assignment can be replaced by a newer file before the published deadline only when the assignment page displays the “Resubmit” option. The latest successful submission is the version presented to the instructor. After the deadline, the resubmission option may be disabled. The assistant must not promise that support staff can reopen a closed assignment; such requests belong to the instructor or academic office.
+
+5. INSTITUTE EMAIL AND COMMUNICATION
+
+Each enrolled student receives an institute email mailbox. Official service notifications, account-recovery messages, and support-ticket updates are sent to this mailbox or to the registered recovery address. Students should check institute email regularly and should not forward messages containing private student information to an unknown address. A legitimate support representative will not ask for the student's password, MFA code, or remote-access permission as a condition of keeping an account active.
+
+If institute email stops synchronising on a phone, first open the mailbox in a browser and check whether new messages are visible there. If browser access works, the problem may be limited to the phone's mail application. Confirm that the application is using the current account password and that automatic date and time are enabled on the device. Remove and re-add the account only after confirming that messages and drafts are stored on the server. Students should not delete the mailbox profile while an unsent draft is the only copy of important work.
+
+A message that appears suspicious should not be opened through its attachment or sign-in link. Check the sender address, unexpected urgency, spelling, and whether the message asks for credentials or payment. Use the “Report phishing” option in institute email. If a student has already entered a password on a suspicious page, the student should change the password from the official Student Portal, review MFA methods, and report the event to the Help Centre immediately.
+
+6. CLOUD STORAGE, FILE RECOVERY, AND BACKUPS
+
+Northstar Cloud Drive provides enrolled students with a shared space for study documents. Students should organise files into clearly named course folders and avoid storing sensitive personal documents in folders shared with classmates. A shared link should be configured for the intended recipients rather than set to public access. Before sharing, check the file name, recipient list, and permission level. “Can view” is appropriate when classmates only need to read a document; “Can edit” should be used only when collaboration is intended.
+
+Deleted files remain in the Cloud Drive recycle bin for thirty days. During that period, the owner can restore a file using the recycle-bin restore action. After thirty days, automatic recovery is not guaranteed. The Cloud Drive version history retains recoverable earlier versions for ninety days. Version history is useful when a file has been overwritten or changed accidentally, while the recycle bin is used when a file has been deleted. These are different recovery routes and should not be confused.
+
+A student who cannot find a file should check the correct Northstar account, the course folder, the shared-with-me view, and the recycle bin. Search by a distinctive part of the file name rather than a generic term such as “notes.” If a folder was shared by another student, the owner may have removed access; the recipient should request access from the owner. Technology support cannot restore a file from a personal USB drive or private third-party cloud account that is outside Northstar's systems.
+
+Cloud storage is not a substitute for every form of backup. For important coursework, keep a working copy in Cloud Drive and a second copy in a separate trusted location. Before a laptop is repaired, reset, or replaced, confirm that essential files have synchronised and open correctly from another device. A cloud icon alone does not prove that every recent edit has finished uploading; check the service's sync status and verify the latest file timestamp.
+
+7. PRINTING AND SCANNING
+
+Student printing is available at designated library and learning-centre printers. Students release a print job by signing in at the printer with their Northstar ID and selecting the correct queued document. The standard student print allowance is two hundred black-and-white pages per academic term. Colour printing is available at selected devices and is charged against a separate project allocation when the course has assigned one. The technology assistant must not invent a price or promise additional quota because this handbook does not define a per-page fee or a general quota exception.
+
+If a print job does not appear, confirm that the computer is connected to the campus network and that the selected printer name matches the intended location. Check whether the job is paused or held for release. Large PDF files can take longer to process. If a document prints with missing characters, download the original file again and use the standard PDF viewer before contacting support. Students should collect printed pages promptly and dispose of confidential drafts in the secure document bins near the library service desk.
+
+A printer that displays a paper jam should not be pulled apart. Follow the on-screen panel instructions only when they identify a user-accessible tray. If the jam is not visible or the panel requests staff assistance, cancel the job and report the printer number and location to the Help Centre. Do not insert tools, scissors, or metal objects into the printer mechanism.
+
+8. CLASSROOM AND PRESENTATION TECHNOLOGY
+
+Teaching rooms may provide a display, HDMI connection, wireless presentation receiver, microphone, and room computer. Before a presentation, arrive early enough to test the display and open the presentation file. Bring a compatible adapter when the laptop does not have an HDMI port. Save a local copy of the slides in case network access is unavailable. Students should sign out of personal accounts on the room computer after use and should not save private files to its public desktop.
+
+If the display shows “No signal,” confirm that the display is powered on, choose the correct input source, and check that the cable is firmly connected at both ends. On the laptop, use the operating system's display settings to detect the external screen. If the screen works but audio does not, verify the selected audio output device and the display's volume controls. If another laptop works on the same cable, record the original laptop model and adapter type when reporting the issue. Do not unplug equipment belonging to an active class without the instructor's permission.
+
+A room computer or wireless receiver should not be used to store passwords. At the end of a session, sign out of the institute account, close personal documents, and remove portable storage devices. Report lost adapters, damaged cables, or equipment that has been left powered on in an unsafe condition to the room support contact or Help Centre.
+
+9. SOFTWARE ACCESS AND INSTALLATION
+
+The institute maintains a catalogue of approved software for coursework. Some tools are available through the Student Portal, while others require a course instructor to assign a licence. Students should check the software catalogue and the relevant course instructions before downloading an installer. A licence assigned to one student must not be shared with another person. The technology assistant can explain where the catalogue is located, but it cannot create an academic entitlement that has not been assigned.
+
+Install applications only from the official vendor website or the institute software catalogue. Avoid cracked installers, unofficial activation scripts, and browser extensions that request more permissions than their stated purpose requires. When installation requires administrator permission, follow the institute's approved request process instead of borrowing another student's account. If an application crashes, record its name, version, operating-system version, and the action that caused the crash. Include any error code in the support ticket.
+
+10. SECURITY, PRIVACY, AND SAFE SUPPORT
+
+Students are responsible for protecting their Northstar ID and the devices they use to access institute services. Use a unique password, keep MFA enabled, install security updates, and lock the screen when stepping away. Do not share one-time codes, recovery codes, or password-reset links. A support employee may ask for the Northstar ID and a description of the problem, but will not ask the student to reveal a password or approve an unexpected MFA request.
+
+Treat unexpected attachments and links as untrusted, even when a message uses an institute logo. A familiar display name does not prove that a sender is genuine. If a message claims that an account will be deleted immediately unless the student signs in, open the Student Portal by typing its known address or using a saved bookmark instead of clicking the message link. Report suspected phishing with the email reporting feature. If a device may be infected, disconnect it from Wi-Fi, stop entering passwords on it, and contact the Help Centre from a different trusted device.
+
+Support tickets should contain only the information needed to investigate the issue. Before attaching a screenshot, hide passwords, MFA codes, personal messages, financial information, and other private data. Never attach an identity document unless the official identity-verification workflow specifically requests it. Support staff handle student information under the institute's privacy procedures and should not receive unrelated personal files.
+
+11. HELP CENTRE TICKETS AND SERVICE LEVELS
+
+The Help Centre is the standard route for non-emergency technology support. A student can open it from the Student Portal by selecting “Help Centre” and then “New ticket.” The form asks for a short subject, service category, description, location when relevant, and optional attachment. A useful ticket describes one main issue rather than combining unrelated requests. The ticket confirmation includes a reference number that should be kept for follow-up messages.
+
+A good support description states what the student was trying to do, what happened instead, the exact error text, when the issue began, and whether it affects one device or several. It should also identify the device type, operating system, browser or application version when relevant, and the troubleshooting steps already attempted. For Wi-Fi problems, include the building and room. For a Learning Hub upload problem, include the course code and assignment name. Do not include a password or MFA code.
+
+The standard service desk is staffed Monday through Friday from 08:00 to 18:00 and Saturday from 10:00 to 14:00, excluding institute holidays. Tickets submitted outside these hours enter the queue and are reviewed during the next staffed period. A normal first response target is one business day. This is a response target, not a guarantee that every issue will be fully resolved within one day. A widespread outage or a problem affecting a scheduled teaching activity may be prioritised by the service desk.
+
+Students should reply to the existing ticket when providing additional information rather than opening multiple tickets for the same issue. If the issue is solved, the student can confirm resolution in the ticket. If a response is unclear, reply with the specific step that failed. Tickets may be closed after the student confirms the fix or after two unanswered follow-up messages over five business days. A closed ticket can be reopened by replying within five business days of closure; after that period, create a new ticket and include the original reference number.
+
+12. EQUIPMENT LOANS AND HARDWARE REPAIRS
+
+A limited number of loan laptops are available through the library equipment desk for students whose personal device is temporarily unavailable. A standard loan period is seven calendar days. One renewal of up to seven additional calendar days may be requested when no other student is waiting for a device. Students must present their Northstar ID when collecting a loan laptop and must return the charger and any supplied accessories with it. The library records the device condition at checkout and return.
+
+Loan laptops are intended for study activities and should not be used to store irreplaceable personal data. Students should save work to Northstar Cloud Drive and sign out of all accounts before returning the device. The library may reset a loan laptop after return. A student who loses a loan device or notices physical damage should report it to the equipment desk as soon as possible; the student should not attempt to repair or disassemble it.
+
+The Help Centre can arrange an initial hardware assessment but does not promise same-day repair or data recovery. Before handing over a personal laptop, back up important files, sign out of personal accounts where practical, remove portable storage, and record the device's serial number for your own reference. Do not provide the device password in an ordinary ticket. If a technician needs to test a specific account-dependent problem, follow the technician's approved supervised process. The institute is not responsible for data that was not backed up before a repair.
+
+13. ESCALATION AND SERVICE BOUNDARIES
+
+Technology support can investigate sign-in faults, Wi-Fi connectivity, institute email, Learning Hub technical errors, Cloud Drive access, printing, classroom equipment, and approved software installation. It cannot change marks, extend assignment deadlines, approve course enrolment, issue refunds, decide scholarship eligibility, or provide legal or financial advice. Those requests should be directed to the instructor, academic office, admissions office, or finance office as appropriate.
+
+For an academic question, contact the course instructor or academic office. For tuition, payment, or refund questions, contact the finance office. For enrolment, timetable, or student-status questions, contact the registrar or admissions office. The handbook does not provide their email addresses, telephone numbers, fee schedules, or decision timelines; the assistant must not invent these details. Students can use the Student Portal directory to find the current office contact information.
+
+If a technology problem creates an immediate physical safety risk, stop using the affected equipment and notify the nearest campus staff member. The Help Centre ticket queue is not an emergency-response service. For a suspected account compromise, use a trusted device to change the password, review registered MFA methods, and submit a high-priority Help Centre ticket. Include the approximate time and any suspicious activity, but do not forward passwords or authentication codes.
+
+14. QUICK TROUBLESHOOTING CHECKLIST
+
+Before opening a ticket, identify the service that is failing and check whether the problem occurs on one device or more than one. Read the complete error message and note when it appeared. Check the network connection, restart the affected application, and restart the device when it is safe to do so. Confirm that the device date and time are correct, that the correct Northstar ID is being used, and that the account has not entered the temporary fifteen-minute lockout after five failed sign-in attempts.
+
+For a missing cloud file, check the account, course folder, shared-with-me view, recycle bin, and version history. Remember that the recycle bin period is thirty days and the version-history period is ninety days. For a failed assignment upload, check the one-hundred-megabyte size limit, supported file format, course and assignment selection, and the presence of a successful receipt. For Wi-Fi, use Northstar-Secure, confirm the network certificate, reconnect with the current Northstar ID, and record the building and room if the problem persists.
+
+A troubleshooting step should not introduce a new security or data-loss risk. Do not disable security software, accept an unexpected certificate, share a password, install an unknown remote-access tool, or reset a device before important files are backed up. When a step could delete data or change account access, stop and ask the Help Centre for guidance. The most useful support request is accurate, specific, and limited to the facts the student has observed.
+
+END OF HANDBOOK

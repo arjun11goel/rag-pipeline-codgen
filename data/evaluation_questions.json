@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How do I connect a student laptop to the campus secure Wi-Fi network?",
+    "answerable": true
+  },
+  {
+    "question": "What information should I include when submitting a technology support ticket?",
+    "answerable": true
+  },
+  {
+    "question": "How long can I restore a deleted file from the Cloud Drive recycle bin?",
+    "answerable": true
+  },
+  {
+    "question": "What is the standard loan period for a library laptop, and can it be renewed?",
+    "answerable": true
+  },
+  {
+    "question": "What should I do if an assignment upload fails in the Learning Hub?",
+    "answerable": true
+  },
+  {
+    "question": "What is the monthly tuition fee at Northstar Learning Institute?",
+    "answerable": false
+  },
+  {
+    "question": "What grade did a particular student receive in the database course?",
+    "answerable": false
+  },
+  {
+    "question": "Who is the current prime minister of Japan?",
+    "answerable": false
+  }
+]

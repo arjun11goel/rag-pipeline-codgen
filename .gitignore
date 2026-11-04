@@ -1,0 +1,19 @@
+# Secrets and Python environments
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated chunk file and local ChromaDB database
+/data/chunks.json
+/chroma_db/*
+!/chroma_db/.gitkeep
+
+# Test and editor artifacts
+.pytest_cache/
+.coverage
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
